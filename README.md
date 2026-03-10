@@ -1,6 +1,7 @@
 # Hello world! 👋🏿
 
-### I'm **Tasian (Tash-arn)** 🙋🏿‍♀️ 
+## I'm **Tasian (Tash-arn)** 🙋🏿‍♀️ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🛠️ Tech Stack:
 Python • SQL • Flask • REST APIs • MySQL • PostgreSQL • Tableau • Git
