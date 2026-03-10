@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! 👋🏿
 
 I'm **Tasian (Tash-arn)** 🙋🏿‍♀️ 
 
