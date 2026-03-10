@@ -4,6 +4,7 @@
 
 ### 🛠️ Tech Stack:
 Python • SQL • Flask • REST APIs • MySQL • PostgreSQL • Tableau • Git
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🤓 An aspiring Software Engineer with a growing interest in building data-driven backend projects.
 
