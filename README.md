@@ -16,7 +16,7 @@ Python • SQL • Flask • REST APIs • MySQL • PostgreSQL • Tableau • 
 📊 **[eBay Market Analytics ETL](https://github.com/TasianJoseph/ebayextraction)**  
 Python ETL pipeline using two eBay APIs to generate weekly marketplace snapshots for Tableau dashboards.
 
-🎬 **CFG Data Engineering Degree Group Project[Movie Finder Web App](https://github.com/TasianJoseph/cfg-group-project)**  
+🎬 **[CFG Group Project Movie Finder Web App](https://github.com/TasianJoseph/cfg-group-project)**  
 Flask + TMDB API web app where users can search and save favourite movies.
 
 🧙 **[Harry Potter Bingo Generator](https://github.com/TasianJoseph/tasiansCodeCV/tree/main/CFG%20Assignments/Assignment%201%20-%20Python)**  
